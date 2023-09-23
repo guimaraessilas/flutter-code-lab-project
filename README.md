@@ -1,6 +1,6 @@
-# my_app_1
+# My first flutter app
 
-A new Flutter project.
+App developed following flutter codelabs tutorial.
 
 ## Getting Started
 
